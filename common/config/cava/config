@@ -1,8 +1,0 @@
-[general]
-bar_width = 2
-bar_spacing = 1
-overshoot = 100
-max_height = 100
-
-[color]
-foreground = blue
